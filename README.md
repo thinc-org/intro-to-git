@@ -7,6 +7,7 @@ Tutorial repository for "Intro to Git" Sharing Session
 - Let's tour GitHub
 - Git Status
 - Git Command Line
+- Branching & Merging
 
 ## What is git?
 Git คือ Version Control ที่ใช้ควบคุมการเปลี่ยนแปลงที่เกิดขึ้นของ project
@@ -37,3 +38,11 @@ Remote Repository
 - `git commit`
 - `git push`
 - `git reset`
+
+## Branching & Merging
+It's a way to keep the project clean
+
+It allows you to
+- Experiment
+- Work on a feature
+- Preparing to make a contribution
