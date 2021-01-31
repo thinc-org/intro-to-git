@@ -6,6 +6,7 @@ Tutorial repository for "Intro to Git" Sharing Session
 - Git Providers
 - Let's tour GitHub
 - Git Status
+- Git Command Line
 
 ## What is git?
 Git คือ Version Control ที่ใช้ควบคุมการเปลี่ยนแปลงที่เกิดขึ้นของ project
@@ -27,3 +28,12 @@ Modified / Deleted
 Staged
 Local Repository
 Remote Repository
+
+## Git Command Line
+- `git init`
+- `git clone`
+- `git remote`
+- `git add`
+- `git commit`
+- `git push`
+- `git reset`
