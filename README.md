@@ -1,5 +1,4 @@
 # Intro to Git
-Tutorial repository for "Intro to Git" Sharing Session
 
 ## Table of Contents
 - What is git?
