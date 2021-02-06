@@ -1,4 +1,4 @@
-# Inrto to Git
+# Inrto to Git (Feature A)
 Tutorial repository for "Intro to Git" Sharing Session
 
 ## Table of Contents
@@ -46,3 +46,7 @@ It allows you to
 - Experiment
 - Work on a feature
 - Preparing to make a contribution
+
+## Hohoho I LIKE THIS STOCK! $GME TO THE MOON
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀
