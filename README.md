@@ -1,4 +1,4 @@
-# Inrto to Git
+# Inrto to Git (Feature A)
 Tutorial repository for "Intro to Git" Sharing Session
 
 ## Table of Contents
