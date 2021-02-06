@@ -46,3 +46,7 @@ It allows you to
 - Experiment
 - Work on a feature
 - Preparing to make a contribution
+
+## Hohoho I LIKE THIS STOCK! $GME TO THE MOON
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀
